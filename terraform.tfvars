@@ -1,0 +1,5 @@
+region          = "us-east-1a"
+ami             = "ami-0dfcb1ef8550277af"
+keypair         = "awstrial"
+instance-type   = "t2.micro"
+name            = "dev-server"
